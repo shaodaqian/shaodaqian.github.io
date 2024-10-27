@@ -59,6 +59,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+PDF CV
 ======
-* Currently signed in to 43 different slack teams
+'http://academicpages.github.io/files/bill_cv.pdf'
