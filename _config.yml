@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Bill Daqian Shao"
   pronouns         : "he/him"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am a PhD (DPhil) student at the University of Oxford, Department of Computer Science. My research interests lie in the intersection of Reinforcement Learning, Causal Inference and the Robustness of Neural Networks.."
   location         : "United Kingdom"
-  employer         : "University of Oxford, Department of Computer Science"
+  employer         : "University of Oxford"
   uri              : # URL
   email            : "daqian.shao@cs.ox.ac.uk"
 
