@@ -2,11 +2,10 @@
 title: "STR-Cert: Robustness Certification for Deep Text Recognition on Deep Learning Pipelines and Vision Transformers"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-STR_Cert
+permalink: /publication/2023-STR-Cert
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024
 venue: 'Preprint under review'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://arxiv.org/pdf/2401.05338'
 citation: '**Daqian Shao**, Lukas Fesser, Marta Kwiatkowska. &quot;STR-Cert: Robustness Certification for Deep Text Recognition on Deep Learning Pipelines and Vision Transformers&quot; <i>Arxiv 2401.05338</i> 2024'
 ---
